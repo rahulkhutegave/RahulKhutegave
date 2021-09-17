@@ -12,8 +12,7 @@
 📫 I am a Software Developer, Content Creator, Author and Blogger..  <br>
 🎓 I am passionate about JAVA, Frameworks, Project Tools, DevOps, Data Structure & Algo. and I enjoy learning new things.
 
-
-Here are some ideas to get you started:
+<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
