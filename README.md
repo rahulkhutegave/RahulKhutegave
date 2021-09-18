@@ -7,10 +7,18 @@
 <a href="mailto:khuttegave.rahul@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br/><br/>
+<br/>
 <h2> About Me</h2>
-📫 I am a Software Developer, Content Creator, Author and Blogger..  <br>
+
+📫 I am a Software Developer, Content Creator,trainer, Author and Blogger..  <br>
 🎓 I am passionate about JAVA, Frameworks, Project Tools, DevOps, Data Structure & Algo. and I enjoy learning new things.
+
+<br/>
+<h2> My Passion </h2>
+
+I've been interested in the coding, design and architecture of software as Enterprise Applications. I firmly believe that poor software design leads to software that is difficult to change in response to growing needs, and encourages buggy software that saps the productivity of computer users everywhere.
+<br/>
+I'm always trying to find out what designs are effective, what approaches lead people into trouble, how we can organize our work to do better designs, and how to communicate what I've learned to more people. My Contents are all ways in which I can share what I learn.
 
 <br/><br/>
 
