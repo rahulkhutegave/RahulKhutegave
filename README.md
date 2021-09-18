@@ -18,7 +18,7 @@
 
 I've been interested in the coding, design and architecture of software as Enterprise Applications. I firmly believe that poor software design leads to software that is difficult to change in response to growing needs, and encourages buggy software that saps the productivity of computer users everywhere.
 <br/>
-I'm always trying to find out what designs are effective, what approaches lead people into trouble, how we can organize our work to do better designs, and how to communicate what I've learned to more people. My Contents are all ways in which I can share what I learn.
+I look for opportunities to help organizations to get more value from their software development efforts by connecting technical thinking with business thinking and how to communicate what I've learned to more people. My Contents are all ways in which I can share what I learn.
 
 <br/><br/>
 
