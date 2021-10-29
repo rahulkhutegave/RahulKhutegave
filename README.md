@@ -14,7 +14,7 @@
 <br/>
 <h2> About Me</h2>
 
-📫 I am a Software Developer, Content Creator, Trainer, Author and Blogger..  <br>
+📫 I am a Software Developer, Content Creator, Trainer and Blogger..  <br>
 🎓 I am passionate about JAVA, Frameworks, Project Tools, DevOps, Data Structure & Algo. and I enjoy learning new things.
 
 <br/>
