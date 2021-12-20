@@ -32,7 +32,6 @@ I look for opportunities to help organizations to get more value from their soft
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Programming
 - 📫 How to reach me: Email, LinkedIn
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I like to be alone.
 -->
 
